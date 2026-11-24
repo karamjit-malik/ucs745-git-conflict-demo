@@ -4,4 +4,5 @@ This project demonstrates version control operations including branching, commit
 ## Supported Operations
 - Addition (`add`)
 - Subtraction (`subtract`)
-- Division (`divide`) [Added by Feature-Divide Team]
+- Multiplication (`multiply`) [Integrated from Feature-Multiply]
+- Division (`divide`) [Integrated from Feature-Divide]
